@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "815399387398",
+    "project_id": "vault-2029f",
+    "storage_bucket": "vault-2029f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815399387398:android:f8f261f4f5e77d0baa1e87",
+        "android_client_info": {
+          "package_name": "com.example.vault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815399387398-vnsccmjmli893hocqol6c7ui98g9ei47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vault",
+            "certificate_hash": "a2144b60e4bec982dace708dadead2b698bce674"
+          }
+        },
+        {
+          "client_id": "815399387398-2g04qn94e0pseqpv1cl7ql4s9k4q7p8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlUz3KbcUb0WvmgGMl9J4c6NofKl71jJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815399387398-2g04qn94e0pseqpv1cl7ql4s9k4q7p8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "815399387398-ks3dkpc97mtbrtduaf8a5eat9hp72hgh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vault"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815399387398:android:d430658e3375d1c3aa1e87",
+        "android_client_info": {
+          "package_name": "com.example.vault3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815399387398-2g04qn94e0pseqpv1cl7ql4s9k4q7p8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlUz3KbcUb0WvmgGMl9J4c6NofKl71jJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815399387398-2g04qn94e0pseqpv1cl7ql4s9k4q7p8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "815399387398-ks3dkpc97mtbrtduaf8a5eat9hp72hgh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vault"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
